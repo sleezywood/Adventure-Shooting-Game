@@ -2,8 +2,6 @@
 # ICS3U CPT: Create a game using given theme (Something Smells in Here)
 #
 # @ authors Lily Bai and Sudhanya Golla
-# @ course ICS3UC
-# @ date 2024/06/11 - LastModified
 #
 # Pygame base template for opening a window
 # Sample Python/Pygame Programs
@@ -1567,4 +1565,5 @@ while not done:
     clock.tick(60)
 
 # Close the window and quit
+
 pygame.quit()
